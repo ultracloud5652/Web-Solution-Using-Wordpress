@@ -326,6 +326,10 @@ sudo systemctl enable httpd
 sudo systemctl start httpd
 ```
 
+* To confirm that Apache is successfully installed, navigate to the public IP address of the web server using a web browser and you should get this;
+
+![Redhat](https://user-images.githubusercontent.com/117458922/222354236-9abc28e6-5324-42df-9a17-4fb5b67c20d3.png)
+
 * To install PHP and it’s depemdencies that are compatible with Wordpress
 
 ```
