@@ -448,3 +448,6 @@ sudo mysql -u admin -p -h <DB-Server-Private-IP-address>
 <img width="885" alt="wordpress" src="https://user-images.githubusercontent.com/117458922/222352936-2446ecc1-6810-4a7d-ab9c-dfe652e2de37.png">
 
 ![Screen Shot 2023-02-20 at 5 00 16 PM](https://user-images.githubusercontent.com/117458922/222353083-fe0caaf0-7283-434c-a556-012701b05a18.png)
+
+*CONGRATULATIONS! We have successfully configured Linux storage susbystem and also deployed a full-scale Web Solution using WordPress and MySQL RDBMS!*
+  
